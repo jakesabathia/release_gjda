@@ -15,9 +15,9 @@ Setup:
 - Edit **GJDA_demo.m** with desired parameters and path
     - Edit the path to **/lib/libsvm-X.XX/matlab**
     - Edit the paramters of *options.k* and *options.lambda* if you want
-- Prepare
-    - Download the data used in this paper in <http://jakesabathia.github.io>
-    - Put the data in */Data*
+- Prepare Data
+    - Download data used in this paper in <http://jakesabathia.github.io>
+    - Put data in */Data*
 
 Run:
 -----
