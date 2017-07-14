@@ -1,0 +1,7 @@
+%Demo Code for Recognizing Cross Domain Data via Generalized Joint Distribution Adaptation, ICME 2016
+%Tao Shih Yen*, Tuan Ting Hsieh*, Yao Hung Hubert Tsai, Yi Ren Yen, Yu Chiang Frank Wang (*Equal Contribution)
+%Any questions please contact Tao Shih Yen: b01901055@gmail.com
+%Please download the data from my personal website: jakesabathia.github.io
+%After you download the data, please put them in ./Data
+%By directly run GJDA_Demo, you will get the same result in our original paper
+%Computer With RAM > 4G is recommended
