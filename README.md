@@ -12,7 +12,7 @@ Setup:
 - Dowload and compile libsvm
     - The path to **libsvm** code available at
         <https://www.csie.ntu.edu.tw/~cjlin/libsvm/#download>
-- Edit **GJDA_demo.m** with desired parameters and path
+- Edit **GJDA_Demo.m** with desired parameters and path
     - Edit the path to **/lib/libsvm-X.XX/matlab**
     - Edit the paramters of *options.k* and *options.lambda* if you want
 - Prepare Data
@@ -21,6 +21,6 @@ Setup:
 
 Run:
 -----
-- Directly run **GJDA_demo.m**
+- Directly run **GJDA_Demo.m**
 - There are three different experiements in this code: cross-feature, cross-domain, and cross-lingual experiement
 - You can choose one of them by yourself
