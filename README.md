@@ -1,6 +1,6 @@
 Domain Adaptation for Cross-Domain Object Recognition and Cross-Lingual Text Categorization
 =========================
-Author: **Shih-Yen Tao** <shihyen@andrew.cmu.edu> </br>
+Author: Shih-Yen Tao <shihyen@andrew.cmu.edu> </br>
 =========================
 
 This is my project page for cross-domain object recognition and cross-lingual text categorization with domain adaptation algorithms involved. </br>
@@ -32,6 +32,7 @@ Domain Adaptation via Convex Optimization:
     [model] = my_train_liblinear(train_label,train_data,options)
     [predict_label,acc] = my_test_liblinear(test_label,test_data,model)
     ```
+- For implementation details please refer to my report <https://github.com/jakesabathia/jakesabathia.github.io/blob/master/paper/10725.pdf>
 
 Generalized Joint Distribution Adaptation:
 ------
