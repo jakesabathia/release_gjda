@@ -1,4 +1,4 @@
-Generalized Joint Distribution Adaptation (GJDA)
+Domain Adaptation for Cross-Domain Object Recogntion and Cross-Lingual Text Categorization
 =========================
 ##Author: Shih-Yen Tao <b01901055@gmail.com>
 
