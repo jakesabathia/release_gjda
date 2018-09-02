@@ -3,11 +3,11 @@ Domain Adaptation for Cross-Domain Object Recogntion and Cross-Lingual Text Cate
 Author: Shih-Yen Tao <shihyen@andrew.cmu.edu>
 This is my project page for cross-domain object recognition and cross-lingual text categorization with domain adaptation algorithms involved.
 I open-source my two novel domain adaptation approaches toward domain adaptation task:
-1. Generalized Joint Distribution Adaptation </br> for heteregeneous domain adaptation.
-2. Domain Adaptatoin via Convex Optimization </br>
+1. **Generalized Joint Distribution Adaptation** for heteregeneous domain adaptation.
+2. **Domain Adaptatoin via Convex Optimization**
 #####Package with code and demo usage for the paper:</br>
 #####"Recognizing Heterogeneous Cross Domain Data via Generalized Joint Distribution Adaptation"</br>
-#####    Shih-Yen Tao*, Yuan-Ting Hsieh*, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang (*equal contribution)</br>ion
+#####    Shih-Yen Tao*, Yuan-Ting Hsieh*, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang (*equal contribution)</br>
 #####    International Conference on Multimedia and Expo (ICME) 2016.
 
 Setup:
