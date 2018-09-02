@@ -5,17 +5,13 @@ This is my project page for cross-domain object recognition and cross-lingual te
 I open-source my two approaches toward domain adaptation task: </br>
 1. **Generalized Joint Distribution Adaptation** </br>
 2. **Domain Adaptatoin via Convex Optimization** </br>
+
+Generalized Joinr Distribution Adaptation:
 ------
-
-
-
-
-
-
-#####Package with code and demo usage for the paper:</br>
-#####"Recognizing Heterogeneous Cross Domain Data via Generalized Joint Distribution Adaptation"</br>
-#####    Shih-Yen Tao*, Yuan-Ting Hsieh*, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang (*equal contribution)</br>
-#####    International Conference on Multimedia and Expo (ICME) 2016.
+- This is the package with code and demo usage for the paper:</br>
+- "Recognizing Heterogeneous Cross Domain Data via Generalized Joint Distribution Adaptation"</br>
+- Shih-Yen Tao*, Yuan-Ting Hsieh*, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang (*equal contribution)
+- Published in International Conference on MUltimedia and Expo (ICME) 2016.
 
 Setup:
 ------
