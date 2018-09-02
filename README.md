@@ -9,8 +9,8 @@ I open-source my two approaches toward domain adaptation task: </br>
 Generalized Joinr Distribution Adaptation:
 ------
 - This is the package with code and demo usage for the paper:</br>
-- "Recognizing Heterogeneous Cross Domain Data via Generalized Joint Distribution Adaptation"</br>
-- Shih-Yen Tao*, Yuan-Ting Hsieh*, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang (*equal contribution)
+- **Recognizing Heterogeneous Cross Domain Data via Generalized Joint Distribution Adaptation**</br>
+- Auther: Shih-Yen Tao*, Yuan-Ting Hsieh*, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang (*equal contribution)
 - Published in International Conference on MUltimedia and Expo (ICME) 2016.
 
 Setup:
