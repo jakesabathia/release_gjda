@@ -1,5 +1,5 @@
 %add libs
-addpath('./Data');
+addpath('../Data');
 addpath('./lib/libsvm-3.22/matlab');
 %clean interface
 clear all
