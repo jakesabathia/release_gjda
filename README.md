@@ -1,6 +1,6 @@
 Domain Adaptation for Cross-Domain Object Recogntion and Cross-Lingual Text Categorization
 =========================
-Author: Shih-Yen Tao <shihyen@andrew.cmu.edu>
+Author: **Shih-Yen Tao** <shihyen@andrew.cmu.edu> </br>
 This is my project page for cross-domain object recognition and cross-lingual text categorization with domain adaptation algorithms involved. </br>
 I open-source my two approaches toward domain adaptation task: </br>
 1. **Domain Adaptation via Convex Optimization** </br>
@@ -8,8 +8,8 @@ I open-source my two approaches toward domain adaptation task: </br>
 
 Domain Adaptation via Convex Optimization:
 ------
-- The package is the demo code for the final project for **CMU 10725 (Convex Optimization)**
-- In addition, I implemented a **matlab versioin for LIBLINEAR** using **Newtown Method** and **Conjugate Gradient Descent** algorithms
+- In this project for **CMU 10725 (Convex Optimization)**, I designed an algorithm which included **Newtown Method**, **Conjugate Gradient Descent**, and **Nestenov Accelerated Gradient Descent** to perform domain adaptation task.
+- In addition, I implemented a **matlab version LIBLINEAR** package which reaches the same performance level.
 - Prepare Data
 	- Download data from <https://drive.google.com/drive/folders/0B1QmFw8l-GM2TUxadVNqNG1IYkE>
 	- Put data in */Data/*
