@@ -1,6 +1,6 @@
 Domain Adaptation for Cross-Domain Object Recognition and Cross-Lingual Text Categorization
 =========================
-Author: Shih-Yen Tao <shihyen@andrew.cmu.edu> </br>
+Author: Shih-Yen Tao <shihyent@andrew.cmu.edu> </br>
 =========================
 
 This is my project page for cross-domain object recognition and cross-lingual text categorization with domain adaptation algorithms involved. </br>
