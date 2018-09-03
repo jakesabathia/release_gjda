@@ -10,6 +10,8 @@ I open-source my two approaches toward domain adaptation task: </br>
 
 Domain Adaptation via Convex Optimization:
 ------
+![725](https://user-images.githubusercontent.com/20837727/44969105-82e6b100-af19-11e8-98b6-4a8bfb1f30e7.png)
+
 - In this project for **CMU 10725 (Convex Optimization)**, I designed an algorithm which included **Newtown Method**, **Conjugate Gradient Descent**, and **Nesterov Accelerated Gradient Descent** to perform domain adaptation task.
 - In addition, I implemented a **Matlab version LIBLINEAR** package which reaches the same performance level.
 - Prepare Data
