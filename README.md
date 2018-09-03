@@ -38,6 +38,8 @@ Domain Adaptation via Convex Optimization:
 
 Generalized Joint Distribution Adaptation:
 ------
+![icme](https://user-images.githubusercontent.com/20837727/44969146-c8a37980-af19-11e8-8849-d9ba2dea4618.png)
+
 - This is the package with code and demo usage for the paper:</br>
 - **Recognizing Heterogeneous Cross-Domain Data via Generalized Joint Distribution Adaptation**</br>
 - Author: Shih-Yen Tao*, Yuan-Ting Hsieh*, Yao-Hung Hubert Tsai, Yi-Ren Yeh and Yu-Chiang Frank Wang (*equal contribution)
