@@ -64,7 +64,7 @@ for j = 1:iter
 	[predict_label,acc] = my_predict_liblinear(Ttest_Label,Ttest,model);
 	fprintf('My liblinear Acc:%f\n',acc)
 
-	%GJDA
+	%Convex
 	fprintf('========================Convex========================\n')
 
 	%Precompute Class-Wise Mean
